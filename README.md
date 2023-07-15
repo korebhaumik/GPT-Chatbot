@@ -19,7 +19,8 @@ This project strives to develop an AI chatbot assistant designed to assist users
 
 **Link:** [https://chatbot-gpt4-lite.vercel.app/](https://chatbot-gpt4-lite.vercel.app/)
 
-https://github.com/korebhaumik/readmePractice/assets/106856064/3d8ea4c3-2842-430b-b0c8-361320d2a23f
+
+https://github.com/korebhaumik/GPT-Chatbot/assets/106856064/b903f30a-6e03-4000-b80f-ae258a522c02
 
 
 ## Features
