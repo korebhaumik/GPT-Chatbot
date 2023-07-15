@@ -2,7 +2,7 @@
     <h1 align="center"> GPT-4 Lite AI Chatbot </h1>
 </a>
 <p align="center">
-  An open-source AI chatbot app template built with React 18, Next.js, OpenAI, and Supabase .
+  An open-source AI chatbot app built with React 18, Next.js, OpenAI, and Supabase.
 </p>
 
 <p align="center">
